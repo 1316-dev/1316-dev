@@ -2,7 +2,7 @@
 🚀 De l'animation socioculturelle au développement informatique, 
 guidé par l'impact social et l'intérêt de l'utilisateur.
 
-Après plus de 10 ans d'expérience dans la coordination de Tiers Lieux Numériques et l'animation socioculturelle, j'ai choisi d'opérer une reconversion stratégique vers le développement Web. Cette transition est motivée par la volonté d'allier mes compétences de terrain à la création d'outils numériques utiles.
+Après plus de 10 ans d'expérience dans la coordination de Tiers Lieux Numériques et l'animation socioculturelle, j'ai choisi d'opérer une reconversion stratégique vers le développement. Cette transition est motivée par la volonté d'allier mes compétences de terrain à la création d'outils numériques utiles.
 
 ## Compétences Techniques
 
